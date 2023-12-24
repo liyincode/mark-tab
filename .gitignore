@@ -5,3 +5,4 @@ tmp/
 .DS_Store
 .pnpm-store/
 dist.zip
+.idea
